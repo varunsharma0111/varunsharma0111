@@ -7,10 +7,10 @@
 
   <br>
 
-  <!-- SOCIAL & PORTFOLIO BADGES -->
+  <!-- SOCIAL, PORTFOLIO & EMAIL BADGES -->
   <a href="https://roadmap-eight-gold.vercel.app/"><img src="https://img.shields.io/badge/Live_Roadmap-AI_Systems_%26_FDE-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio"></a>
   <a href="https://github.com/varunsharma0111"><img src="https://img.shields.io/badge/GitHub-varunsharma0111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:sharmavarun68994@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:sharmavarun68994@gmail.com"><img src="https://img.shields.io/badge/Email-sharmavarun68994%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
