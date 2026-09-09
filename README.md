@@ -20,7 +20,10 @@
 
 ### 👋 About Me
 
-I am a **final-year B.Tech student in Artificial Intelligence & Machine Learning**, focused on building practical software and AI systems — taking an idea from requirements → implementation → testing → debugging → verification → production-ready software.
+I am a **B.Tech graduate in Artificial Intelligence & Machine Learning**, focused on building practical software and AI systems — taking an idea from **requirements → implementation → testing → debugging → verification → deployment → production-ready software**.
+
+I enjoy understanding how systems work end-to-end, solving real-world problems, and continuously improving applications for **reliability, scalability, security, and performance**.
+
 
 ---
 
